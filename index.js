@@ -1,5 +1,5 @@
-function isweds(string) {
-  return string == "Isweds";
+function capitalizeFirstLetter(str) {
+  return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
-module.exports = isweds;
+module.exports = capitalizeFirstLetter;
