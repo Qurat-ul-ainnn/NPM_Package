@@ -1,0 +1,22 @@
+{
+  "name": "my-first-package",
+  "version": "1.0.0",
+  "description": "Publishing this package for assignment 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qurat-ul-ainnn/NPM_Package.git"
+  },
+  "keywords": [
+    "Web-Tech"
+  ],
+  "author": "Qurat-ul-ain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qurat-ul-ainnn/NPM_Package/issues"
+  },
+  "homepage": "https://github.com/Qurat-ul-ainnn/NPM_Package#readme"
+}
